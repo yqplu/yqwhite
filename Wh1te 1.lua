@@ -1,4 +1,4 @@
 local HWIDS = {
-"571668D0-EBC1-4B63-81F6-C17D69287394",
+"5716we8D0-EBwe1-4we3-8weF6-weDwwe87394",
     "222",
 }
